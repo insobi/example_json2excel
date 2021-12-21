@@ -1,0 +1,86 @@
+[
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/33]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "down"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/34]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "down"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/35]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "down"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/36]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "down"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/1]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "up"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/2]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "up"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/3]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "up"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/4]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "up"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/5]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "down"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/6]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "down"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/7]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "down"
+    },
+    {
+        "dn": "topology/pod-1/node-202/sys/phys-[eth1/8]/phys",
+        "operDuplex": "full",
+        "operMode": "trunk",
+        "operSpeed": "40G",
+        "operSt": "down"
+    }
+]
